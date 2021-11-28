@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Converter</string>
+    <string name="from_label">From</string>
+    <string name="to_label">To</string>
+    <string name="result">Result</string>
+    <string-array name="units">
+        <item>Binary (2)</item>
+        <item>Octal (8)</item>
+        <item>Decimal (10)</item>
+        <item>Hexadecimal (16)</item>
+    </string-array>
+</resources>
